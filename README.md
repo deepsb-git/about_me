@@ -1,13 +1,7 @@
 # about_me
-<h1 align="center">
-  <span style="
-    background: linear-gradient(45deg, #22D3EE, #0EA5E9);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    font-weight: bold;
-    font-size: 2.5rem;
-  ">DEEPAK KUMAR BARIK</span>
-</h1>
+# 🅳🅴🅴🅿🅰🅺 🅺🆄🅼🅰🆁 🅱🅰🆁🅸🅺
+# ⒹⒺⒺⓅⒶⓀ ⓀⓊⓂⒶⓇ ⒷⒶⓇⒾⓀ
+# 𝔻𝔼𝔼ℙ𝔸𝕂 𝕂𝕌𝕄𝔸ℝ 𝔹𝔸ℝ𝕀𝕂
 ### Java Developer | Spring Specialist | Consultant
 
 <p align="center">
