@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=22D3EE&background=FFFFFF00&center=true&vCenter=true&width=500&height=80&lines=DEEPAK+KUMAR+BARIK" alt="3D Typing Animation" />
 </p>
-### Java Developer | Spring Specialist | Consultant
+### Java Backend Developer | Spring Specialist | Consultant | Cloud Enthusiast
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Java+%7C+Spring+Boot+%7C+AWS;Microservices+%7C+Docker+%7C+Jenkins;Problem+Solver+%7C+DevOps+Learner" alt="Typing SVG" />
