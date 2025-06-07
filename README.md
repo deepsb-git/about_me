@@ -130,6 +130,10 @@
 - Earn Certification
 - Master system design concepts
 
+  <p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DeepakBarik&label=Profile%20views&color=0e75b6&style=flat" alt="DeepakBarik" /> 
 </p>
