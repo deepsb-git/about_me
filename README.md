@@ -76,6 +76,9 @@
 - AWS Certified Solutions Architect
 - Advanced Kubernetes
 - Jenkins Pipeline as Code
+- Microservices Architecture
+- Spring Cloud
+- Docker & Kubernetes
 
 ## 💼 Professional Experience
 
@@ -89,11 +92,6 @@
 
 ## 🏆 Achievements
 - Implemented performance optimization reducing API response time by 40%
-
-## 📚 Currently Learning
-- Microservices Architecture
-- Spring Cloud
-- Docker & Kubernetes
 
 ## 🎯 Goals for 2025
 - Contribute to open source projects
