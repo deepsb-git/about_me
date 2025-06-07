@@ -1,7 +1,9 @@
 # about_me
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=22D3EE&background=FFFFFF00&center=true&vCenter=true&width=500&height=80&lines=DEEPAK+KUMAR+BARIK" alt="3D Typing Animation" />
-</p>
+<h1 align="center" style="
+  text-shadow: 3px 3px 0 #22D3EE, 
+               6px 6px 0 #0EA5E9;
+  font-weight: bold;
+">DEEPAK KUMAR BARIK</h1>
 ### Java Developer | Spring Specialist | Consultant
 
 <p align="center">
