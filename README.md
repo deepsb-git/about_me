@@ -1,7 +1,7 @@
 # about_me
-# 🅳🅴🅴🅿🅰🅺 🅺🆄🅼🅰🆁 🅱🅰🆁🅸🅺
-# ⒹⒺⒺⓅⒶⓀ ⓀⓊⓂⒶⓇ ⒷⒶⓇⒾⓀ
-# 𝔻𝔼𝔼ℙ𝔸𝕂 𝕂𝕌𝕄𝔸ℝ 𝔹𝔸ℝ𝕀𝕂
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=22D3EE&background=FFFFFF00&center=true&vCenter=true&width=500&height=80&lines=DEEPAK+KUMAR+BARIK" alt="3D Typing Animation" />
+</p>
 ### Java Developer | Spring Specialist | Consultant
 
 <p align="center">
