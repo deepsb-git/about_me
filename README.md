@@ -138,6 +138,4 @@
   <img src="https://komarev.com/ghpvc/?username=DeepakBarik&label=Profile%20views&color=0e75b6&style=flat" alt="DeepakBarik" /> 
 </p>
 
-<p align="center">
-  <img src="https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
