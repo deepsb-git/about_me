@@ -1,4 +1,3 @@
-# about_me
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=2000&pause=1000&color=22D3EE&background=FFFFFF00&center=true&vCenter=true&width=500&height=80&lines=DEEPAK+KUMAR+BARIK" alt="3D Typing Animation" />
 </p>
