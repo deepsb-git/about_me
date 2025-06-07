@@ -7,7 +7,7 @@
 </p>
 
 ## 👨‍💻 About Me
-- 🔭 3+ years experience in Java/J2EE development
+- 🔭 3.5+ years experience in Java/J2EE development
 - 🌱 Currently working as Consultant
 - 💡 Passionate about clean code and system design
 - 📫 How to reach me: deepsb.dpk@gmail.com
@@ -36,7 +36,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 
 ### **Web Technologies**
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
@@ -96,9 +95,9 @@
 - Spring Cloud
 - Docker & Kubernetes
 
-## 🎯 Goals for 2024
+## 🎯 Goals for 2025
 - Contribute to open source projects
-- Earn AWS Certification
+- Earn Certification
 - Master system design concepts
 
 <p align="center">
