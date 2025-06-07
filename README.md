@@ -60,6 +60,10 @@
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)  
 ![SOAPUI](https://img.shields.io/badge/SOAPUI-FF6C37?style=for-the-badge&logo=soapui&logoColor=white) 
 
+### **API Development & Testing**  
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black) ![SOAPUI](https://img.shields.io/badge/SOAPUI-FF6C37?style=for-the-badge&logo=soapui&logoColor=white)
+
+
 ### **Testing & Logging**  
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)  
 ![Mockito](https://img.shields.io/badge/Mockito-78CFF5?style=for-the-badge&logo=mockito&logoColor=black)  
