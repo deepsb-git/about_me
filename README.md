@@ -4,9 +4,11 @@
 
 ### Java Backend Developer | Spring Specialist | Cloud Enthusiast | Consultant 
 
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&width=435&lines=Java+%7C+Spring+Boot+%7C+AWS;Microservices+%7C+Docker+%7C+Jenkins;Problem+Solver+%7C+DevOps+Learner" alt="Typing SVG" />
 </p>
+
 
 ## 👨‍💻 About Me
 - 🔭 3.5+ years experience in Java/J2EE development
