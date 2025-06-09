@@ -28,8 +28,6 @@
   </a>
 </p>
 
-## 🛠️ **Technical Skills**
-
 
 ## 🛠️ **Skills**  
 
@@ -43,6 +41,10 @@
 ## 🎨 **Excel Badges **  
 [![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://support.microsoft.com/en-us/excel)  
 [![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-Expert-green?style=for-the-badge&logo=micrsoft-excel)](https://example.com)  
+
+
+## 🛠️ **Technical Skills**
+
 
 ### **Core Java & J2EE**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
