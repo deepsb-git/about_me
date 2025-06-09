@@ -11,7 +11,7 @@
 
 
 ## 👨‍💻 About Me
-- 🔭 3.5+ years experience in Java/J2EE development
+- 🔭 3+ years experience in Java/J2EE development
 - 🌱 Currently working as Consultant
 - 💡 Passionate about clean code and system design
 - 📫 How to reach me: deepsb.dpk@gmail.com
