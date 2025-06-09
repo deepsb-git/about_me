@@ -70,19 +70,8 @@
 ### **APIs & Databases**
 ![REST API](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+[![SQL](https://img.shields.io/badge/SQL-Proficient-ff6b4a?style=for-the-badge&logo=postgresql&logoColor=white)](https://example.com/sql)
 
-### 📊 **Data & Analytics**  
-<a href="#advanced-excel" style="color: white; background: #217346; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold; margin-right: 8px;">🧮 Advanced Excel</a>
-<a href="#sql" style="color: white; background: #ff6b4a; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold;">📝 SQL</a>  
-
-✔ **Excel**: Power Pivot, VBA, Dashboarding  
-✔ **SQL**: Complex Queries, Joins, CTEs, Optimization  
-
----
-
-## 🎨 **Skill Badges**  
-[![Excel](https://img.shields.io/badge/Advanced_Excel-Expert-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://example.com/excel)  
-[![SQL](https://img.shields.io/badge/SQL-Proficient-ff6b4a?style=for-the-badge&logo=postgresql&logoColor=white)](https://example.com/sql)  
 
 ### **Web Technologies**
 ![JSP](https://img.shields.io/badge/JSP_(Java_Server_Pages)-007396?style=for-the-badge&logo=java&logoColor=white)
