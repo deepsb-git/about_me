@@ -30,8 +30,22 @@
 
 ## 🛠️ **Technical Skills**
 
+
 ## Skills and Expertise
 - Hands-on experience in **Advanced Excel** (pivot tables, data visualization, macros, VLOOKUP/XLOOKUP, power queries, etc.)
+
+  ## 🛠️ **Skills**  
+
+<a href="#advanced-excel" style="color: white; background: #217346; padding: 5px 10px; border-radius: 5px; text-decoration: none; font-weight: bold;">📊 Advanced Excel</a>  
+✔ **Data Analysis**: PivotTables, Power Query, XLOOKUP  
+✔ **Automation**: Macros (VBA), Dynamic Dashboards  
+✔ **Modeling**: Scenario Manager, Solver, Data Tables  
+
+---
+
+## 🎨 **Excel Badges (Optional)**  
+[![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://support.microsoft.com/en-us/excel)  
+[![Advanced Excel](https://img.shields.io/badge/Advanced_Excel-Expert-green?style=for-the-badge&logo=micrsoft-excel)](https://example.com)  
 
 ### **Core Java & J2EE**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
