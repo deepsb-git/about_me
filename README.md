@@ -30,6 +30,9 @@
 
 ## 🛠️ **Technical Skills**
 
+## Skills and Expertise
+- Hands-on experience in **Advanced Excel** (pivot tables, data visualization, macros, VLOOKUP/XLOOKUP, power queries, etc.)
+
 ### **Core Java & J2EE**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Servlet](https://img.shields.io/badge/J2EE_Servlet-007396?style=for-the-badge&logo=java&logoColor=white)
