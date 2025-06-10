@@ -99,16 +99,7 @@
 ![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
-## 📊 **GitHub Stats**
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeepakBarik&show_icons=true&theme=radical&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeepakBarik&layout=compact&theme=radical&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DeepakBarik&theme=radical&hide_border=true" />
-</p>
 
 ## 🚀 **Latest Projects**
 
