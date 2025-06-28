@@ -23,7 +23,7 @@
   <a href="mailto:deepsb.dpk@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/yourprofile" target="_blank">
+  <a href="https://leetcode.com/u/deepsb-git" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
   </a>
 </p>
